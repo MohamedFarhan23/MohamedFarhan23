@@ -25,7 +25,7 @@ mode     → flow state, ideally uninterrupted
 
 **Backend:** Python · FastAPI · SQLAlchemy · WebSockets · PostgreSQL
 **GenAI:** LangChain · RAG · ChromaDB · LLM agents
-**Frontend:** React (when the UX needs a perfectionist)
+**Frontend:** React,Kivy (when the UX needs a perfectionist)
 
 ---
 
