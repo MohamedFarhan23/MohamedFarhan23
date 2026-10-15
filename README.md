@@ -73,6 +73,4 @@ Watch this space, or star something when it lands.
 
 Open to **Python Backend / GenAI Engineer** roles, and always happy to talk about RAG, agents, or why your dotfiles could be better.
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true)
+[LinkedIn](https://www.linkedin.com/in/mohamedfarhan23) · [Email](mailto:mohdfarhan232002@gmail.com)
